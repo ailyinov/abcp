@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/v2",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "admin",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "classmap": ["."]
+  }
+}
